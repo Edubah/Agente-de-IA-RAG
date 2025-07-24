@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "d1501a7338e534d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f82c096e64b4389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ea8f1d72d98203",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Banco de Dados Vetorizado/FAQ Python Video YouTube.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FAQ Python Video YouTube"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30e97720e7293a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "05bb601f03ad4cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d83289c76ba9524",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d7f8bf854f07098b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d7fec3086a96ef27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "545b075f06fde392",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29bd67582768866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74277f43991d529c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Banco de Dados Vetorizado/FAQ Python Video YouTube.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para FAQ Python Video YouTube"
+            }
+          },
+          {
+            "id": "402f718ee0d22982",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Banco de Dados Vetorizado/FAQ Python Video YouTube.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para FAQ Python Video YouTube"
+            }
+          },
+          {
+            "id": "00bbce789ddc5a88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ce32a8b07b579f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Banco de Dados Vetorizado/FAQ Python Video YouTube.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de FAQ Python Video YouTube"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d1ea8f1d72d98203",
+  "lastOpenFiles": [
+    "Banco de Dados Vetorizado/FAQ Python Video YouTube.pdf",
+    "Banco de Dados Vetorizado",
+    "Welcome.md"
+  ]
+}
